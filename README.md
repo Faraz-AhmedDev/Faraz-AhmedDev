@@ -42,6 +42,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Faraz-AhmedDev/Faraz-AhmedDev/snake-output/snake-dark.svg" alt="Snake animation" />
 </p>
-
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</p>
 
 
