@@ -40,7 +40,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faraz-ahmeddev/faraz-ahmeddev/snake-output/snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Faraz-AhmedDev/Faraz-AhmedDev/snake-output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 
