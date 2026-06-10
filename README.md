@@ -42,5 +42,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Faraz-AhmedDev/Faraz-AhmedDev/snake-output/snake-dark.svg" alt="Snake animation" />
 </p>
-
-![My 3D Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Faraz-AhmedDev&theme=dark&stats=true)
