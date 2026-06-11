@@ -8,15 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz-ahmeddev&label=Profile%20views&color=0e75b6&style=flat" alt="faraz-ahmeddev" /> </p>
 
-- 🔭 I’m currently working on [Global Run Payroll Software](https://play.google.com/store/apps/details?id=com.app.payday&hl=en)
+* 🔭 I’m currently working on [Global Run Payroll Software](https://play.google.com/store/apps/details?id=com.app.payday&hl=en)
 
-- 🌱 I’m currently learning **Node.js, Express.js, and Backend Development.**
+* 🌱 I’m currently learning **Node.js, Express.js, and Backend Development.**
 
-- 👯 I’m looking to collaborate on **React Native mobile applications, open-source projects, and scalable cross-platform solutions**
+* 👯 I’m looking to collaborate on **React Native mobile applications, open-source projects, and scalable cross-platform solutions.**
 
-- 💬 Ask me about **JavaScript, Mobile App Development, Redux, and App Performance Optimization.**
+* 💬 Ask me about **JavaScript, React Native, Mobile App Development, Redux, and App Performance Optimization.**
 
-- 📫 How to reach me **farazahmed7262@gmail.com**
+* 🌐 Portfolio: **https://portfolio-psi-lilac-qwxsboxmp5.vercel.app/**
+
+* 📫 How to reach me **[farazahmed7262@gmail.com](mailto:farazahmed7262@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
