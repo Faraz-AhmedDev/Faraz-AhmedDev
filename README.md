@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmed</h1>
-<h3 align="center">Passionate React Native Developer | Turning Ideas into Mobile Apps</h3>
+<h3 align="center">Senior React Native Developer | Turning Ideas into Mobile Apps</h3>
 
 <!-- Deep Thinking -->
 <p align="center">
