@@ -3,7 +3,10 @@
 
 <!-- Deep Thinking -->
 <p align="center">
-  <img src="[https://visitor-badge.laobi.icu/badge?page_id=faraz-ahmeddev.faraz-ahmeddev&left_color=grey&right_color=0e75b6&left_text=Profile%20views](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)" alt="faraz-ahmeddev" />
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=faraz-ahmeddev.faraz-ahmeddev&left_color=grey&right_color=0e75b6&left_text=Profile%20views"
+    alt="Profile views"
+  />
 </p>
 
 <p align="left">
