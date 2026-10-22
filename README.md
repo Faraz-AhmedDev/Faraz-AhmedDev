@@ -6,7 +6,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz-ahmeddev&label=Profile%20views&color=0e75b6&style=flat" alt="faraz-ahmeddev" /> </p>
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=faraz-ahmeddev.faraz-ahmeddev&left_color=grey&right_color=0e75b6&left_text=Profile%20views" alt="faraz-ahmeddev" />
+</p>
 
 * 🔭 I’m currently working on [Global Run Payroll Software](https://play.google.com/store/apps/details?id=com.app.payday&hl=en)
 
