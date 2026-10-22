@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=faraz-ahmeddev.faraz-ahmeddev&left_color=grey&right_color=0e75b6&left_text=Profile%20views" alt="faraz-ahmeddev" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffaraz-ahmeddev&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true" alt="faraz-ahmeddev" />
 </p>
 
 * 🔭 I’m currently working on [Global Run Payroll Software](https://play.google.com/store/apps/details?id=com.app.payday&hl=en)
