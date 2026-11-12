@@ -96,7 +96,7 @@ I'm a Software Engineer passionate about building modern, scalable, and user-fri
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://linkedin.com/in/faraz-ahmed0619/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
